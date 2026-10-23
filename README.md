@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-Configure the required environment variables in a `.env` file before running the project if you want to use your token for any particular reasons. i put mine inside `.env.example` to make your job easier.
+Configure the required environment variables in a `.env` file before running the project if you want to use your token for any particular reasons(Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first). i put mine inside `.env.example` to make your job easier.
 
 ### 🎯 Purpose
 
