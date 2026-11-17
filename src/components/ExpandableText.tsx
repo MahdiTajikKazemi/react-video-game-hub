@@ -19,7 +19,7 @@ const ExpandableText = ({ children }: Props) => {
     : children.substring(0, limit) + "...";
 
   return (
-    <Text>
+    <Text marginBottom={8}>
       {description}
       <Button
         colorScheme="yellow"
